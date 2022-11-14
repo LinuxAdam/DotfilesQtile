@@ -1,2 +1,7 @@
-# DotfilesQtile
-Dotfile for Qtile
+
+# Dotfile for Qtile
+
+Needed apps
+Rofi
+Neofetch
+Qtile
