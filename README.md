@@ -9,8 +9,14 @@
 
 # Needed apps
 Rofi
+
 Neofetch
+
 Qtile
+
+kitty
+
+unzip
 
 # Keys
 Mod=Win
@@ -21,4 +27,8 @@ Mod+return kitty
 
 To Apply Dotfiles 
 
-git clone 
+git clone https://github.com/LinuxAdam/DotfilesQtile.git
+
+and
+
+unzip 
