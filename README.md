@@ -31,4 +31,10 @@ git clone https://github.com/LinuxAdam/DotfilesQtile.git
 
 and
 
-unzip DotfilesQtile
+unzip DotfilesQtile/aesthetic.zip Or DotfilesQtile/nord.zip
+
+and copy these files to .config file 
+
+# Finally
+
+reboot/logout from your pc and log into qtile
