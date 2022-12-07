@@ -25,10 +25,10 @@ Mod+R rofi
 
 Mod+return kitty
 
-To Apply Dotfiles 
+# To Apply Dotfiles 
 
 git clone https://github.com/LinuxAdam/DotfilesQtile.git
 
 and
 
-unzip 
+unzip DotfilesQtile
