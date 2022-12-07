@@ -19,3 +19,6 @@ Mod+R rofi
 
 Mod+return kitty
 
+To Apply Dotfiles 
+
+git clone 
