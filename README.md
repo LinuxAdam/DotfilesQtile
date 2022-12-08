@@ -18,12 +18,16 @@ kitty
 
 unzip
 
-# Keys
+# Keys 
 Mod=Win
 
-Mod+R rofi
+Mod+r spawns rofi
 
-Mod+return kitty
+Mod+return spawn kitty terminal
+
+Mod+Ctrl+R restrats qtile
+
+ thats all u need!
 
 # To Apply Dotfiles 
 
