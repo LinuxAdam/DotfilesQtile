@@ -1,9 +1,9 @@
 # 2 Themes for Qtile
 
 
-![alt text](https://media.discordapp.net/attachments/965277006298251304/1050120512182943764/aesthetic.png?width=731&height=411)
+![alt text](https://media.discordapp.net/attachments/866973615475392522/1050433164931235860/Ekran_Goruntusu_-_2022-12-08_18-20-09.png?width=736&height=414)
 
-![alt text](https://media.discordapp.net/attachments/965277006298251304/1050120642374144061/Ekran_Goruntusu_-_2022-12-04_14-59-02.png?width=731&height=411)
+![alt text](https://media.discordapp.net/attachments/866973615475392522/1050432831794462834/nord.png?width=736&height=414)
 
 
 
